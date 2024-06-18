@@ -1,5 +1,9 @@
 # Weather App
 
+<p align="center">
+  <img width="440" src="weather-app.png">
+</p>
+
 This project is a web application for searching weather by city and displaying weather results for today's date. It is built using the following technologies:
 
 - Node.js
