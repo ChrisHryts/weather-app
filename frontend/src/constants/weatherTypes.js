@@ -1,0 +1,35 @@
+const WEATHER_TYPES = {
+  CLEAR_WEATHER: ['clear sky'],
+  CLOUDY_WEATHER: [
+    'few clouds',
+    'scattered clouds',
+    'broken clouds',
+    'overcast clouds',
+  ],
+  FOGGY_WEATHER: ['mist', 'smoke', 'haze', 'dust', 'fog'],
+  OTHER_WEATHER: ['sand, dust whirls', 'squalls', 'tornado'],
+  RAINY_WEATHER: [
+    'light rain',
+    'moderate rain',
+    'heavy intensity rain',
+    'very heavy rain',
+    'extreme rain',
+    'freezing rain',
+    'light intensity shower rain',
+    'shower rain',
+    'heavy intensity shower rain',
+    'ragged shower rain',
+    'thunderstorm with light rain',
+    'thunderstorm with rain',
+    'thunderstorm with heavy rain',
+    'light thunderstorm',
+    'thunderstorm',
+    'heavy thunderstorm',
+    'ragged thunderstorm',
+    'thunderstorm with light drizzle',
+    'thunderstorm with drizzle',
+    'thunderstorm with heavy drizzle',
+  ],
+};
+
+export default WEATHER_TYPES;
